@@ -28,7 +28,7 @@ def exec_shutdown():
         if DEBUG:
             os.system('sudo whoami')
         else:
-            os.system('shutdown now')
+            os.system('sudo shutdown now')
 
 
 @app.route('/')
