@@ -5,7 +5,7 @@ Issue a shutdown command over an HTTP network call
 ## Installation
 ```shell script
 git clone https://github.com/Kyle-Falconer/net-shutdown.git && cd net-shutdown
-pip instal -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Running the server
